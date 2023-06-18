@@ -1,0 +1,1 @@
+export { ModalHocExample } from "./ModalHocExample";

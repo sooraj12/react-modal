@@ -1,0 +1,30 @@
+.ModalContentSample {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .modal-content {
+    width: 470px;
+    height: 284px;
+  }
+
+  .modal-header {
+    border-bottom: none;
+  }
+
+  .modal-body {
+    max-height: 300px;
+    overflow: auto;
+  }
+
+  .modal-footer {
+    border: none;
+    width: 100%;
+    text-align: right;
+    .btn {
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 20px;
+      padding: 12px 25px;
+    }
+  }
+}

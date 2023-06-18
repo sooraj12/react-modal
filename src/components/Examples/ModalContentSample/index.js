@@ -1,0 +1,1 @@
+export { ModalContentSample } from "./ModalContentSample";
