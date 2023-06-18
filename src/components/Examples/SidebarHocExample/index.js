@@ -1,0 +1,1 @@
+export { SidebarHocExample } from "./SidebarHocExample";
